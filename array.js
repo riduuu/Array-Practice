@@ -7,6 +7,7 @@ todoList.unshift('Clean room');
 console.log(todoList);
 
 todoList.pop()
+let storeInVariable = [todoList]
 console.log(todoList);
 
 console.log(todoList.indexOf('Clean room'));
