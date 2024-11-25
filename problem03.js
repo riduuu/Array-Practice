@@ -13,6 +13,7 @@ console.log(colorsList);
 
 // step 04
 console.log(colorsList.indexOf('blue'));
+colorsList.splice(1, 1)
 
 // step 05
 let currentArray = [colorsList];
